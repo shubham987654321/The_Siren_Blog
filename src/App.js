@@ -34,15 +34,16 @@ class App extends PureComponent{
     
    <Switch>
  
-   <Route path="/" component={Home} exact></Route>
+  
    <Route path="/home" component={Home}></Route>
 
-   <Route path="/bollywood"  component={Bollywood} ></Route>
-   <Route path="/hollywood" component={Hollywood}></Route>
-   <Route path="/fitness" component={Fitness}></Route>
-   <Route path="/food" component={Food}></Route>
-   <Route path="/technology" component={Technology}></Route>
-   <Route path="/Reactblog" component={Reactblog}></Route>
+   <Route path="/bollywood"  component={Bollywood}  exact></Route>
+   <Route path="/hollywood" component={Hollywood} exact></Route>
+   <Route path="/fitness" component={Fitness} exact></Route>
+   <Route path="/food" component={Food} exact></Route>
+   <Route path="/technology" component={Technology} exact></Route>
+   <Route path="/Reactblog" component={Reactblog} exact></Route>
+   <Route path="/" component={Home}></Route>
 
    
     
