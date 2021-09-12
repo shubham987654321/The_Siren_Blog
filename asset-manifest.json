@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/The_Siren_Blog/static/css/main.03964b11.chunk.css",
+    "main.js": "/The_Siren_Blog/static/js/main.680dfb3a.chunk.js",
+    "main.js.map": "/The_Siren_Blog/static/js/main.680dfb3a.chunk.js.map",
+    "runtime-main.js": "/The_Siren_Blog/static/js/runtime-main.e1113ded.js",
+    "runtime-main.js.map": "/The_Siren_Blog/static/js/runtime-main.e1113ded.js.map",
+    "static/css/2.818011ed.chunk.css": "/The_Siren_Blog/static/css/2.818011ed.chunk.css",
+    "static/js/2.8831404d.chunk.js": "/The_Siren_Blog/static/js/2.8831404d.chunk.js",
+    "static/js/2.8831404d.chunk.js.map": "/The_Siren_Blog/static/js/2.8831404d.chunk.js.map",
+    "index.html": "/The_Siren_Blog/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/The_Siren_Blog/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.03964b11.chunk.css.map": "/The_Siren_Blog/static/css/main.03964b11.chunk.css.map",
+    "static/js/2.8831404d.chunk.js.LICENSE.txt": "/The_Siren_Blog/static/js/2.8831404d.chunk.js.LICENSE.txt",
+    "static/media/blog.c8ecc9e5.jpg": "/The_Siren_Blog/static/media/blog.c8ecc9e5.jpg",
+    "static/media/first.15df16b9.jpg": "/The_Siren_Blog/static/media/first.15df16b9.jpg",
+    "static/media/latest.dabef586.jpg": "/The_Siren_Blog/static/media/latest.dabef586.jpg",
+    "static/media/latestarticle.eec03cea.jpg": "/The_Siren_Blog/static/media/latestarticle.eec03cea.jpg",
+    "static/media/post.a8c9fb6a.jpg": "/The_Siren_Blog/static/media/post.a8c9fb6a.jpg",
+    "static/media/second.36b54712.jpg": "/The_Siren_Blog/static/media/second.36b54712.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1113ded.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.8831404d.chunk.js",
+    "static/css/main.03964b11.chunk.css",
+    "static/js/main.680dfb3a.chunk.js"
+  ]
+}
