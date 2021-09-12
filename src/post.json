@@ -1,0 +1,30 @@
+
+[
+    {
+        "image" : "./component/image/latestarticle.jpg",
+        "text3" : "Catch waves with an adventure guide",
+       
+        "travel" : "Travel",
+        "date"  : "/August 21 2017",
+        "id" : 10
+    },
+    {
+        "image" : "./component/image/latestarticle.jpg",
+        "text3" : "Catch waves with an adventure guide",
+        
+       
+        "travel" : "Travel",
+        "date"  : "/August 21 2017",
+        "id" : 10
+    },
+    {
+        "image" : "./component/image/latestarticle.jpg",
+        "text3" : "Catch waves with an adventure guide",
+        
+       
+        "travel" : "Travel",
+        "date"  : "/August 21 2017",
+        "id" : 10
+    }
+   
+]

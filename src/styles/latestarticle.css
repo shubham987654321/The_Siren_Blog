@@ -1,0 +1,73 @@
+.latestarticle{
+    width: 60vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 2vw;
+   
+   
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgb(226, 211, 211);
+}
+
+
+.bigImage{
+  margin-top: 10vh;
+    width: 50vw;
+    height:50vh;
+    margin: 2vw;
+  
+}
+/* card section */
+.ACard{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 70vw;
+    height: 40%;
+    
+    border-bottom: 2px solid rgb(226, 211, 211);
+    padding-bottom: 20px;
+}
+/* Image section */
+.IACard{
+    width: 30%;
+    height: 20vh;
+    margin: 10px
+
+}
+
+.Acontent{
+  
+    
+    width: 60%;
+    height: 80%;
+    margin-left: 35%;
+    margin-top: -21vh;
+    margin-right: 20px;
+    text-align: center;
+    margin-bottom: 2px;
+    
+    
+}
+
+@media screen and (max-width : 768px) {
+    .latestarticle{
+        width: 80vw;
+       
+        justify-content: space-around;
+        text-align: center;
+       justify-items: center;
+       margin-left: 5vw;
+       
+    }
+   
+    .Acontent{
+        width: 100%;
+    }
+    .bigImage{
+       display: none;
+        
+    }
+}

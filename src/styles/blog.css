@@ -1,0 +1,174 @@
+
+
+.Blog{
+    margin-left: 3vw;
+   text-align: center;
+  
+    margin-left: 30vw;
+   
+    padding: 20px;
+ 
+    
+    
+   
+    
+}
+
+.ClapShare{
+    position: fixed;
+   
+    width: 25vw;
+    margin-top: 20vh;
+    margin-left: 2vw;
+    
+   
+   
+
+  
+    
+
+}
+.bContanier{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+     justify-content: center;
+   
+   
+  
+    width: 90vw;
+    margin: 2vw;
+    z-index: 4;
+    height: auto;
+  
+    background-color: white;
+    margin-top: 30vh;
+    padding-bottom: 20vh;
+   
+
+}
+
+
+
+.b1{
+    height: 30px;
+    width: 30px;
+    background-size: cover;
+    margin-right: 20px;
+    float: right;
+}
+
+
+.b2{
+    height: 100px;
+    width: 100px;
+    margin-left: 2vw;
+    float: left;
+    position: sticky;
+}
+
+.b3{
+    height: 50vh;
+    width: 100%;
+    
+    margin-top: 20vh;
+  
+}
+.btext{
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 30px;
+    padding: 10px;
+ 
+   
+   
+}
+
+button{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.b4{
+    height: 70vh;
+    width: 100%;
+    
+   
+   
+}
+
+.n4{
+    margin-left: 40%;
+}
+
+.n3{
+    font-size: 3em;
+    padding-bottom: 10px;
+    
+   
+}
+
+
+
+
+/*  */
+
+
+
+.bCard{
+    height: auto;
+    width: 28%;
+  
+    padding: 20px;
+    margin-top: 10vh;
+  
+    margin-right: 10px;
+   background-color: whitesmoke;
+
+   
+}
+.bI{
+    width: 100%;
+    height: 30%;
+}
+.b6{
+ 
+    height: 10%;
+    width: 20%;
+}
+
+.bt{
+    font-weight: lighter;
+    color: rgb(186, 180, 169);
+    margin-left: -20vh;
+}
+
+
+
+
+@media screen and (max-width : 992px) {
+    .ClapShare{
+        display: none;
+    }
+    .Blog{
+        margin-left: 0vw;
+    }
+    .bContanier{
+        flex-direction: column;
+
+    }
+    .bCard{
+        width: 80vw;
+        margin-left: 2vw;
+        
+    }
+    .n4{
+        display: none;
+    }
+    .n3{
+        display: none;
+    }
+}

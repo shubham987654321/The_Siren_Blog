@@ -1,0 +1,46 @@
+span{
+    
+     display: inline-flex;
+     margin-top: 5vh;
+    
+ 
+    
+     
+         
+}
+
+.firstText{
+    font-size: 3em;
+     transform: rotate(270deg);
+     letter-spacing: 1px;
+   
+    
+}
+
+.secondText{
+
+    font-size: 5em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+
+
+
+}
+
+
+
+@media screen  and (max-width : 992px){
+    .firstText{
+        display: none;
+       
+    }
+    .secondText{
+        display: none;
+    }
+  
+    
+   
+    
+}
