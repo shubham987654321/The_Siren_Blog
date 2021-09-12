@@ -2,7 +2,7 @@
   "name": "react_blog",
   "homepage": "https://shubham987654321.github.io/The_Siren_Blog",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@szhsin/react-menu": "^2.0.1",
     "@testing-library/jest-dom": "^5.14.1",
