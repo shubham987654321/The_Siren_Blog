@@ -23,7 +23,7 @@ class App extends PureComponent{
     return(
       <>
    <div>
-<BrowserRouter>
+<BrowserRouter basename="/The_Siren_Blog">
  
   
   
