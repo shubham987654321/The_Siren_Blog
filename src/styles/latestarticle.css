@@ -62,21 +62,12 @@
        margin-left: 5vw;
        
     }
-  
    
     .Acontent{
-        width: 60%;
-        padding-right: 10px;
+        width: 100%;
     }
     .bigImage{
        display: none;
         
-    }
-
-    .IACard{
-        width: 30%;
-        height: 100%;
-     
-    
     }
 }
