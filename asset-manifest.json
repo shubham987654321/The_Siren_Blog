@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/The_Siren_Blog/static/css/main.03964b11.chunk.css",
-    "main.js": "/The_Siren_Blog/static/js/main.680dfb3a.chunk.js",
-    "main.js.map": "/The_Siren_Blog/static/js/main.680dfb3a.chunk.js.map",
+    "main.js": "/The_Siren_Blog/static/js/main.032ea400.chunk.js",
+    "main.js.map": "/The_Siren_Blog/static/js/main.032ea400.chunk.js.map",
     "runtime-main.js": "/The_Siren_Blog/static/js/runtime-main.e1113ded.js",
     "runtime-main.js.map": "/The_Siren_Blog/static/js/runtime-main.e1113ded.js.map",
     "static/css/2.818011ed.chunk.css": "/The_Siren_Blog/static/css/2.818011ed.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.8831404d.chunk.js",
     "static/css/main.03964b11.chunk.css",
-    "static/js/main.680dfb3a.chunk.js"
+    "static/js/main.032ea400.chunk.js"
   ]
 }
