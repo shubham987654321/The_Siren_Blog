@@ -23,7 +23,7 @@ class App extends PureComponent{
     return(
       <>
    <div>
-<BrowserRouter basename="/The_Siren_Blog">
+<BrowserRouter basename={process.env.PUBLIC_URL}>
  
   
   
