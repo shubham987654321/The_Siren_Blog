@@ -4,7 +4,9 @@
     width: 30vw;
    height: auto;
     margin-left: 66vw;
-    margin-top: 130vh;
+    margin-top: 123vh;
+  
+    padding: 10px;
     
    
     
@@ -46,6 +48,7 @@
     margin: 0px;
     height: 100%;
     margin-top: -10vh;
+    
     
 }
 

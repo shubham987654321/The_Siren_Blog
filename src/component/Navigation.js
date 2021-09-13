@@ -29,7 +29,7 @@ class Navigation extends Component {
 
               
               
-           <Navbar collapseOnSelect expand="lg"   className="class1" >
+           <Navbar collapseOnSelect expand="lg"   className="class1"   >
     <Container>
      <Navbar.Brand className="c1"> <span className="n1">The</span>
           <span className="n2">Siren</span></Navbar.Brand>

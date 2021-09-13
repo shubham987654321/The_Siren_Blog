@@ -4,7 +4,7 @@ function headername() {
 
     return(
         <>
-        <center className="header">
+        <center className="header" >
           <span className="firstText">The</span>
           <span className="secondText">Siren</span>
 </center>

@@ -26,21 +26,34 @@ h1{
     width: 30%;
    
     height: auto;
-    margin-left: 20px;
-    background-color: white;
-   box-shadow: 2px 2px 4px gray;
-   padding: 10px;
+    margin-left: 30px;
+    /* background-color: white; */
+  
+   padding-bottom: 10px;
+   margin-top: 20px;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+   border: 0.0001px solid rgb(243, 238, 238);
+  
     
+}
+.Card:hover{
+    transform: scale(1.05);
+    box-shadow: 2px 2px 4px gray, -2px -2px 4px gray;
 }
 
 .sCard{
 height: 40%;
 width: 100%;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
 }
 
 .content{
    
     text-align: center;
+    padding: 10px;
   
 }
 
@@ -74,6 +87,7 @@ width: 100%;
     }
     .Card{
         width: 80vw;
+       
     }
     
 }

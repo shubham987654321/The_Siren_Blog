@@ -26,10 +26,12 @@
     flex-direction: column;
     width: 70vw;
     height: 40%;
+   
     
     border-bottom: 2px solid rgb(226, 211, 211);
     padding-bottom: 20px;
 }
+
 /* Image section */
 .IACard{
     width: 30%;

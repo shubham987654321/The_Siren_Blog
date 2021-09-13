@@ -32,7 +32,7 @@ class Headermangment extends Component{
             {
                 (this.state.blog) ?  
                 <>
-                <div>
+                <div >
                 <Headername/>
                  <Navigation/>
                  </div>

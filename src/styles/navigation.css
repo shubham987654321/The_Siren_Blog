@@ -2,10 +2,12 @@
     text-align: center;
     text-decoration: none;
     background-color: light;
-    color: white;
+    
     opacity: 0.4;
-    opacity: 0.8;
+    opacity: 0.9;
     margin: 10px 20px;
+   
+ 
 
     
 }
@@ -18,7 +20,8 @@
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding:  20px;
-  
+   font-family: cursive;
+    font-size: 1em;
    
    
 }

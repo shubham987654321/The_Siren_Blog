@@ -24,7 +24,7 @@ function Reactblog(){
    
     var twitter = "https://image.flaticon.com/icons/png/128/733/733579.png";
     var insta = "https://image.flaticon.com/icons/png/128/2111/2111463.png";
-    var youtube = "https://img-premium.flaticon.com/png/128/2875/premium/2875384.png?token=exp=1631341982~hmac=c56207660191d292b14b1ea6f171180e";
+    var youtube = "https://img.icons8.com/external-justicon-flat-justicon/2x/external-youtube-social-media-justicon-flat-justicon.png";
    
    
    
