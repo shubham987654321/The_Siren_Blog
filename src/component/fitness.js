@@ -10,7 +10,7 @@ class Fitness extends PureComponent{
             <>
             <Headermangment/>
         <LatestArticle content="Fitness"/>
-            <Toppost/>
+          
 
             </>
         )
