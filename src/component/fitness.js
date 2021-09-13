@@ -1,7 +1,7 @@
 import { PureComponent } from "react";
 import Headermangment from "./headermangment";
 import LatestArticle from "./latestarticle";
-import Toppost from "./toppost";
+
 
 class Fitness extends PureComponent{
 
@@ -14,7 +14,7 @@ class Fitness extends PureComponent{
 
             </>
         )
-    }
+    } 
 }
 
 
